@@ -7,8 +7,7 @@ authors:
     email: chaime@technion.ac.il
   - given-names: Tsviqa
     family-names: Lakrec
-  - given-names: Ran
-    name-particle: J
+  - given-names: Ran J
     family-names: Tessler
 title: "bcfw-amp"
 version: 1.0.0
