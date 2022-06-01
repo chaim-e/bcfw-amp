@@ -1,4 +1,4 @@
-# bcfw
+# bcfw-amp
 
 Supplementary Sage code that accompanies the paper:
 
